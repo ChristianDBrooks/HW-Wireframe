@@ -4,7 +4,6 @@ body {
     font-weight: 300;
     color: #777;
     background: #777;
-    width: 960px;
     font-size: 18px;
 }
 
@@ -12,25 +11,25 @@ header {
     background: #ebebeb;
     padding: 20px;
     margin-bottom: 10px;
-    width: 495px;
-    margin: 0px 200px;
+    width: 920px;
+    margin: 0px 120px;
     margin-bottom: 10px;
 }
 
 nav {
     background: #ebebeb;
     padding: 20px;
-    margin: 0px 200px;
+    margin: 0px 120px;
     margin-bottom: 20px;
-    width: 495px;
+    width: 920px;
 }
 
 section {
     float: left;
     background: #ebebeb;
     padding: 20px 10px 10px 10px;
-    margin: 0px 20px 20px 200px;
-    width: 245px;
+    margin: 0px 20px 20px 120px;
+    width: 495px;
 }
 
 article {
@@ -51,8 +50,8 @@ aside {
     float: left;
     background: #ebebeb;
     padding: 20px;
-    margin: 0px 200px 20px 0px;
-    width: 210px;
+    margin: 0px 0px 20px 0px;
+    width: 385px;
     height: 250px;
 }
 
@@ -60,9 +59,8 @@ footer {
     float: left;
     background: #ebebeb;
     padding: 20px;
-    margin: 0px 200px;
-    width: 495px;
-
+    margin: 0px 120px;
+    width: 920px;
 }
 
 .clearfix::after {
